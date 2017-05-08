@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Лабораторная работа №1</string>
+    <string name="ok_button">Зашифровать</string>
+    <string name="edit_text_hint">Введите сообщение</string>
+</resources>
